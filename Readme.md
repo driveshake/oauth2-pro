@@ -1,11 +1,11 @@
-# Node OAuth2 Server [![Build Status](https://travis-ci.org/thomseddon/node-oauth2-server.png?branch=2.0)](https://travis-ci.org/thomseddon/node-oauth2-server)
+# Node OAuth2 Server [![Build Status](https://travis-ci.org/thomseddon/node-oauth2-server.png?branch=2.0)](https://github.com/driveshake/oauth2-pro)
 
 Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](http://expressjs.com/) in [node.js](http://nodejs.org/)
 
 ## Installation
 
 ```
-npm install oauth2-server
+npm install oauth2-pro
 ```
 
 ## Quick Start
@@ -313,12 +313,12 @@ Pragma: no-cache
 
 ## Changelog
 
-See: https://github.com/thomseddon/node-oauth2-server/blob/master/Changelog.md
+See: https://github.com/driveshake/oauth2-pro/blob/master/Changelog.md
 
 ## Credits
 
-Copyright (c) 2013 Thom Seddon
+Copyright (c) 2015 DriveShake
 
 ## License
 
-[Apache, Version 2.0](https://github.com/thomseddon/node-oauth2-server/blob/master/LICENSE)
+[Apache, Version 2.0](https://github.com/driveshake/oauth2-pro/blob/master/LICENSE)
